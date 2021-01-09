@@ -1,4 +1,6 @@
 #!usr/bin/python
+#jgn direcode ya cuk
+#coded by Gabriel.S
 import requests, os,sys
 clear
 
