@@ -19,7 +19,6 @@ def iOsif():
  os.system('pip2 install -r requirements.txt')
  os.system('clear') 
  os.system('python2 osif.py')
- 
 
 os.system('toilet -f standard -F gay "MyTools"')
 os.system('sleep 2')
