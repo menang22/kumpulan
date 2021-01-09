@@ -1,5 +1,5 @@
 #!usr/bin/python
-import requests, os
+import requests, os,sys
 clear
 
 def cekip():
