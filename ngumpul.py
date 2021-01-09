@@ -19,6 +19,9 @@ def iOsif():
  os.system('python2 osif.py')
  
 
+os.system('toilet -f standard -F gay "MyTools"')
+os.system('sleep 2')
+os.system('clear')
 print('''-=[ MyTools ]=-
 
      [Menu]
