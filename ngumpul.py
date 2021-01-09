@@ -1,4 +1,6 @@
+#!usr/bin/python
 import requests, os
+clear
 
 def cekip():
  print(f'[!] Mendapatkan IP..')
@@ -13,6 +15,7 @@ def iOsif():
  os.system('git clone https://github.com/ciku370/OSIF')
  os.system('cd OSIF')
  os.system('pip2 install -r requirements.txt')
+ os.system('clear') 
  os.system('python2 osif.py')
  
 
